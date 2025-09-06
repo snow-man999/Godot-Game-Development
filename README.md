@@ -783,3 +783,6 @@ func Player_is_in_LOS():
 	else:
 		return false
 ```
+
+
+`If you have some questions, feel free to reach out.`
